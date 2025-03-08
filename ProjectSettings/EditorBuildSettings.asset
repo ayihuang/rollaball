@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Menu.unity
+    guid: 1f703ffd7384361499a2a6819747089d
+  - enabled: 1
+    path: Assets/Main Game/Scenes/InfoScene.unity
+    guid: 01b7c6f4438adf34fb67cf93ded2d357
+  - enabled: 1
+    path: Assets/Main Game/Scenes/MiniGame.unity
+    guid: d3e2a6ee31e689c4cb0d9d1d1387f50d
+  - enabled: 1
+    path: Assets/Main Game/Scenes/MiniGameRound2 1.unity
+    guid: 5297422a9dce0e141882dd275b692b43
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Round3.unity
+    guid: 2844597ac0e6d2b48aaba9b113299272
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Round 4.unity
+    guid: 329358346b3df8842af2ab4d8982dac8
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Round5.unity
+    guid: ff9ddfe04e814f44caae59c8728e998d
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Round6.unity
+    guid: 54d1d3347216aa4478ab52327b32bd11
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Round7Plus.unity
+    guid: 3a684cc11eab44d43856877fd9f29655
+  - enabled: 1
+    path: Assets/Main Game/Scenes/Ending.unity
+    guid: bcb0cdc45b196734bb619dd39acb7be9
+  m_configObjects: {}
